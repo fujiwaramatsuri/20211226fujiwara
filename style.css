@@ -1,0 +1,24 @@
+<style>
+body {
+  font-family:
+  "Hiragino Kaku Gothic Pro N",
+  Meiryo,
+  sans-serif;
+}
+table {
+  border-collapse: collapse;
+  border: 1px solid black;
+}
+th, td {
+  width: 50px;
+  border: 1px dotted black;
+
+}
+th {
+  background: white;
+}
+td {
+  text-align: center;
+}
+</style>
+
